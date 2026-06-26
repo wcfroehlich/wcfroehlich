@@ -8,6 +8,14 @@ My career spans operations management, quality systems, AI evaluation, business 
 
 I'm currently pursuing a Bachelor of Science in Information Technology with an Artificial Intelligence concentration while building **Creator Brain**, an AI-powered operating system designed to help creators organize knowledge, automate workflows, and streamline content production.
 
+## Philosophy
+
+I believe technology should reduce complexity rather than create it.
+
+Whether I'm documenting manufacturing processes, evaluating AI systems, or building software, my goal is the same:
+
+Build systems that make work easier, knowledge more accessible, and people more effective.
+
 ---
 
 ## Current Focus
@@ -25,7 +33,7 @@ I'm currently pursuing a Bachelor of Science in Information Technology with an A
 
 ## Featured Project
 
-# Creator Brain
+### Creator Brain
 
 **Current Version:** 0.17
 
@@ -52,7 +60,15 @@ The platform combines AI, structured knowledge management, automation, research,
 - AI Evaluator — Invisible Technologies
 - Co-Founder & Operations Manager — Hecate's Mystique
 - Assistant Quality Manager supporting a $100M+ federal manufacturing operation
+  
+## Career Highlights
 
+- Developed and maintained over 1,000 controlled SOPs and manufacturing procedures.
+- Designed executive reporting systems supporting a $100M+ manufacturing operation.
+- Evaluate AI models professionally for Welocalize and Invisible Technologies.
+- Building Creator Brain, an AI-powered operating system for content creators.
+- Maintaining a 3.95 GPA while pursuing a B.S. in Information Technology (AI).
+  
 ---
 
 ## Education
@@ -128,7 +144,7 @@ GPA: **3.95**
 
 ---
 
-## Current Goals
+## Currently Building
 
 - Release the Creator Brain MVP
 - Continue expanding my AI portfolio
@@ -137,22 +153,27 @@ GPA: **3.95**
 - Contribute to meaningful AI-powered business solutions
 
 ---
+## Open Source
+
+I believe in building practical software that solves real-world problems.
+
+Current public projects include Creator Brain, with additional workflow automation and productivity tools planned.
 
 ## Connect
 
-Portfolio *(Coming Soon)*
+**GitHub Profile**
 
-GitHub
+[github.com/wcfroehlich](https://github.com/wcfroehlich)
 
-https://github.com/wcfroehlich
+**Creator Brain**
 
-Creator Brain
+[Creator Brain Repository](https://github.com/wcfroehlich/creator-brain)
 
-https://github.com/wcfroehlich/creator-brain
+**Professional Portfolio**
+Coming Soon
 
-LinkedIn *(Coming Soon)*
+**LinkedIn**
+Coming Soon
 
-William Gamesmith
-
-*(Coming Soon)*
-
+**William Gamesmith**
+Gaming news, livestreaming, and creator ecosystem.
