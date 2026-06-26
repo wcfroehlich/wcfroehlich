@@ -170,10 +170,13 @@ Current public projects include Creator Brain, with additional workflow automati
 [Creator Brain Repository](https://github.com/wcfroehlich/creator-brain)
 
 **Professional Portfolio**
+
 Coming Soon
 
 **LinkedIn**
+
 Coming Soon
 
 **William Gamesmith**
+
 Gaming journalism, creator tools, and digital media powered by curiosity, research, and technology.
