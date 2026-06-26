@@ -176,4 +176,4 @@ Coming Soon
 Coming Soon
 
 **William Gamesmith**
-Gaming news, livestreaming, and creator ecosystem.
+Gaming journalism, creator tools, and digital media powered by curiosity, research, and technology.
